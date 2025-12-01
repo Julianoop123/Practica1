@@ -8,3 +8,5 @@ echo Línea agregada para evidencia REAL del PASO 4 desde CMD >> README.md
 
 
 Esta linea fue agregada como evidencia del PASO 4 
+Esta es una línea agregada para la evidencia del paso 6 desde la rama desarrollo.
+
